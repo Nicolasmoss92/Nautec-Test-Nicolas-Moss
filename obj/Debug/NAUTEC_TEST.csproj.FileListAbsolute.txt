@@ -1,0 +1,14 @@
+c:\users\jaine.silva\documents\visual studio 2013\Projects\NAUTEC_TEST\NAUTEC_TEST\bin\Debug\NAUTEC_TEST.exe.config
+C:\Users\jaine.silva\Documents\Visual Studio 2013\Projects\NAUTEC_TEST\NAUTEC_TEST\bin\Debug\NAUTEC_TEST.exe
+C:\Users\jaine.silva\Documents\Visual Studio 2013\Projects\NAUTEC_TEST\NAUTEC_TEST\bin\Debug\NAUTEC_TEST.pdb
+C:\Users\jaine.silva\Documents\Visual Studio 2013\Projects\NAUTEC_TEST\NAUTEC_TEST\obj\Debug\NAUTEC_TEST.csprojResolveAssemblyReference.cache
+C:\Users\jaine.silva\Documents\Visual Studio 2013\Projects\NAUTEC_TEST\NAUTEC_TEST\obj\Debug\NAUTEC_TEST.exe
+C:\Users\jaine.silva\Documents\Visual Studio 2013\Projects\NAUTEC_TEST\NAUTEC_TEST\obj\Debug\NAUTEC_TEST.pdb
+C:\Users\jaine.silva\Documents\Visual Studio 2013\Projects\NAUTEC_TEST\NAUTEC_TEST\bin\Debug\boxes.data
+C:\Users\w10\Documents\NAUTEC_TEST\NAUTEC_TEST\bin\Debug\boxes.data
+C:\Users\w10\Documents\NAUTEC_TEST\NAUTEC_TEST\bin\Debug\NAUTEC_TEST.exe.config
+C:\Users\w10\Documents\NAUTEC_TEST\NAUTEC_TEST\bin\Debug\NAUTEC_TEST.exe
+C:\Users\w10\Documents\NAUTEC_TEST\NAUTEC_TEST\bin\Debug\NAUTEC_TEST.pdb
+C:\Users\w10\Documents\NAUTEC_TEST\NAUTEC_TEST\obj\Debug\NAUTEC_TEST.csprojAssemblyReference.cache
+C:\Users\w10\Documents\NAUTEC_TEST\NAUTEC_TEST\obj\Debug\NAUTEC_TEST.exe
+C:\Users\w10\Documents\NAUTEC_TEST\NAUTEC_TEST\obj\Debug\NAUTEC_TEST.pdb
